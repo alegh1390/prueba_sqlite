@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, Prueba_sqliteActivity!</string>
     <string name="app_name">Prueba_sqlite</string>
+    <string name="app">Sqlite</string>
 
 </resources>
